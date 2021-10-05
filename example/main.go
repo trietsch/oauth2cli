@@ -8,8 +8,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/int128/oauth2cli"
-	"github.com/int128/oauth2cli/oauth2params"
+	"github.com/trietsch/oauth2cli"
+	"github.com/trietsch/oauth2cli/oauth2params"
 	"github.com/pkg/browser"
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/google"

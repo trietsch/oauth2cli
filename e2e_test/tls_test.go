@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/int128/oauth2cli"
-	"github.com/int128/oauth2cli/e2e_test/authserver"
-	"github.com/int128/oauth2cli/e2e_test/client"
+	"github.com/trietsch/oauth2cli"
+	"github.com/trietsch/oauth2cli/e2e_test/authserver"
+	"github.com/trietsch/oauth2cli/e2e_test/client"
 	"golang.org/x/oauth2"
 )
 
